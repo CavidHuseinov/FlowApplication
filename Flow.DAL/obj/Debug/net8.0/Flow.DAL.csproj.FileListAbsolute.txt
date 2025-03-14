@@ -1,0 +1,17 @@
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.csproj.AssemblyReference.cache
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.AssemblyInfoInputs.cache
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.AssemblyInfo.cs
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\bin\Debug\net8.0\Flow.DAL.deps.json
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\bin\Debug\net8.0\Flow.DAL.runtimeconfig.json
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\bin\Debug\net8.0\Flow.DAL.dll
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\bin\Debug\net8.0\Flow.DAL.pdb
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\bin\Debug\net8.0\Flow.Core.dll
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\bin\Debug\net8.0\Flow.Core.pdb
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.csproj.Up2Date
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.dll
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\refint\Flow.DAL.dll
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.pdb
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\Flow.DAL.genruntimeconfig.cache
+C:\Users\Cavid\source\repos\FlowApplication\Flow.DAL\obj\Debug\net8.0\ref\Flow.DAL.dll
