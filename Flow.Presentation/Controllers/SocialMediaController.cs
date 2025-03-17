@@ -40,6 +40,10 @@ namespace Flow.Presentation.Controllers
         [HttpPost("create")]
         public async Task<IActionResult> CreateAsync(CreateSocialMediaDto dto)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
             try
             {
 

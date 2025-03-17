@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "kd0JCBEKKgIfMJ92x8j4bRnu4yquovOV7RZuS5TWaZo=",
+  "Source": "Flow.Presentation",
+  "BasePath": "_content/Flow.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Flow.Presentation\\wwwroot",
+      "Source": "Flow.Presentation",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\wwwroot\\",
+      "BasePath": "_content/Flow.Presentation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -15,6 +15,12 @@ namespace Flow.DAL.Context
         {
         }
         public DbSet<SocialMedia> SocialMedias { get; set; }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Tag> Tags { get; set; }
+        public DbSet<BlogTag> BlogTags { get; set; }
+        public DbSet<Color> Colors { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

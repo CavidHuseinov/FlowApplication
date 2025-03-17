@@ -1,146 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.presentation\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\controllers\\socialmediacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B62D758-27BA-4F00-90EA-4A1395B61209}|Flow.Infrastructure\\Flow.Infrastructure.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.infrastructure\\flow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B62D758-27BA-4F00-90EA-4A1395B61209}|Flow.Infrastructure\\Flow.Infrastructure.csproj|solutionrelative:flow.infrastructure\\flow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F3273C5-0646-4D04-95D9-519F033677F9}|Flow.Infrastructure\\Flow.Infrastructure.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.infrastructure\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F3273C5-0646-4D04-95D9-519F033677F9}|Flow.Infrastructure\\Flow.Infrastructure.csproj|solutionrelative:flow.infrastructure\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.dal\\dalrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\dalrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.presentation\\flow.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\flow.presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\services\\implementations\\socialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\services\\implementations\\socialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\flow.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\flow.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\services\\interfaces\\isocialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\services\\interfaces\\isocialmediaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B62D758-27BA-4F00-90EA-4A1395B61209}|Flow.Infrastructure\\Flow.Infrastructure.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.infrastructure\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B62D758-27BA-4F00-90EA-4A1395B61209}|Flow.Infrastructure\\Flow.Infrastructure.csproj|solutionrelative:flow.infrastructure\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\mapper\\addautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\mapper\\addautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\dtos\\common\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\dalrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\dalrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\repository\\implementations\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\repository\\implementations\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\repository\\implementations\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\repository\\implementations\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\repository\\interfaces\\isocialmediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\repository\\interfaces\\isocialmediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\repository\\interfaces\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\repository\\interfaces\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\repository\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\repository\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\repository\\implementations\\socialmediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\repository\\implementations\\socialmediarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\dtos\\socialmedia\\createsocialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\dtos\\socialmedia\\createsocialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\dtos\\socialmedia\\updatesocialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\dtos\\socialmedia\\updatesocialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\dtos\\socialmedia\\getsocialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\dtos\\socialmedia\\getsocialmediadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2FA7134-68C3-4602-8A36-9D724E9EE5DC}|Flow.Core\\Flow.Core.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FA7134-68C3-4602-8A36-9D724E9EE5DC}|Flow.Core\\Flow.Core.csproj|solutionrelative:flow.core\\entities\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2FA7134-68C3-4602-8A36-9D724E9EE5DC}|Flow.Core\\Flow.Core.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.core\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2FA7134-68C3-4602-8A36-9D724E9EE5DC}|Flow.Core\\Flow.Core.csproj|solutionrelative:flow.core\\entities\\socialmedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A15DE184-0950-42A7-86F7-7139CA347DAA}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\exceptions\\deletegenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\exceptions\\deletegenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\exceptions\\creategenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\exceptions\\creategenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F3273C5-0646-4D04-95D9-519F033677F9}|Flow.Infrastructure\\Flow.Infrastructure.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.infrastructure\\flow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2F3273C5-0646-4D04-95D9-519F033677F9}|Flow.Infrastructure\\Flow.Infrastructure.csproj|solutionrelative:flow.infrastructure\\flow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\configurations\\socialmediaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\configurations\\socialmediaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\context\\flowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\context\\flowdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2FA7134-68C3-4602-8A36-9D724E9EE5DC}|Flow.Core\\Flow.Core.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.core\\flow.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F2FA7134-68C3-4602-8A36-9D724E9EE5DC}|Flow.Core\\Flow.Core.csproj|solutionrelative:flow.core\\flow.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\exceptions\\getgenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\exceptions\\getgenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.business\\helpers\\exceptions\\updategenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2B0F828-60B8-4638-A85E-72C80B206B96}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\helpers\\exceptions\\updategenericexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\migrations\\20250314222315_allcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\migrations\\20250314222315_allcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\source\\repos\\flowapplication\\flow.dal\\migrations\\20250314211115_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{75A03884-AF23-4114-A35C-70D4607EBF2E}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\migrations\\20250314211115_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,454 +58,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Flow.Presentation\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Flow.Presentation\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:58:53.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Services\\Implementations\\BlogService.cs",
+              "RelativeDocumentMoniker": "Flow.Business\\Services\\Implementations\\BlogService.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Services\\Implementations\\BlogService.cs",
+              "RelativeToolTip": "Flow.Business\\Services\\Implementations\\BlogService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwCcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:56:38.758Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SocialMediaService.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Services\\Implementations\\SocialMediaService.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Services\\Implementations\\SocialMediaService.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Services\\Implementations\\SocialMediaService.cs",
-              "RelativeToolTip": "Flow.Business\\Services\\Implementations\\SocialMediaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwDcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:23:56.894Z",
+              "Title": "Flow.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
+              "RelativeDocumentMoniker": "Flow.Business\\Flow.Business.csproj",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
+              "RelativeToolTip": "Flow.Business\\Flow.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:55:28.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ISocialMediaService.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Services\\Interfaces\\ISocialMediaService.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Services\\Interfaces\\ISocialMediaService.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Services\\Interfaces\\ISocialMediaService.cs",
-              "RelativeToolTip": "Flow.Business\\Services\\Interfaces\\ISocialMediaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAA3AAAAAAAAAA==",
+              "Title": "BusinessServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\BusinessServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Flow.Business\\BusinessServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\BusinessServiceRegistration.cs",
+              "RelativeToolTip": "Flow.Business\\BusinessServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:23:35.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SocialMediaController.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Controllers\\SocialMediaController.cs",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Controllers\\SocialMediaController.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Controllers\\SocialMediaController.cs",
-              "RelativeToolTip": "Flow.Presentation\\Controllers\\SocialMediaController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwDUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:29:06.436Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Flow.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\appsettings.json",
-              "RelativeToolTip": "Flow.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T20:37:44.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Flow.Presentation.http",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.http",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Flow.Presentation.http",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.http",
-              "RelativeToolTip": "Flow.Presentation\\Flow.Presentation.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-14T20:22:01.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Dockerfile",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Dockerfile",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Dockerfile",
-              "RelativeToolTip": "Flow.Presentation\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-14T20:21:56.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T16:54:35.946Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GlobalExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "RelativeToolTip": "Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAoAAAAAAAAAA==",
+              "Title": "DALRepositoryRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\DALRepositoryRegistration.cs",
+              "RelativeDocumentMoniker": "Flow.DAL\\DALRepositoryRegistration.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\DALRepositoryRegistration.cs",
+              "RelativeToolTip": "Flow.DAL\\DALRepositoryRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:47:15.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T16:52:34.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Flow.Presentation.csproj",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Flow.Presentation.csproj",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
-              "RelativeToolTip": "Flow.Presentation\\Flow.Presentation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Flow.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Flow.Infrastructure\\Flow.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
+              "RelativeToolTip": "Flow.Infrastructure\\Flow.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T22:46:05.543Z",
+              "WhenOpened": "2025-03-16T16:50:22.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BusinessServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\BusinessServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\BusinessServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\BusinessServiceRegistration.cs",
-              "RelativeToolTip": "Flow.Business\\BusinessServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:49:51.173Z",
+              "WhenOpened": "2025-03-16T16:48:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flow.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
+              "RelativeDocumentMoniker": "Flow.DAL\\Flow.DAL.csproj",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
+              "RelativeToolTip": "Flow.DAL\\Flow.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:47:42.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Flow.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Program.cs",
+              "RelativeToolTip": "Flow.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:40:27.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "AddAutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\Mapper\\AddAutoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:22:10.231Z",
-              "EditorCaption": ""
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Flow.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Flow.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T16:49:34.115Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "BaseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\DTOs\\Common\\BaseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:20:02.59Z",
+              "Title": "Flow.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
+              "RelativeDocumentMoniker": "Flow.Presentation\\Flow.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
+              "RelativeToolTip": "Flow.Presentation\\Flow.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:47:15.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "DALRepositoryRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\DALRepositoryRegistration.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\DALRepositoryRegistration.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\DALRepositoryRegistration.cs",
-              "RelativeToolTip": "Flow.DAL\\DALRepositoryRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:06:16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Implementations\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Repository\\Implementations\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Implementations\\WriteRepository.cs",
-              "RelativeToolTip": "Flow.DAL\\Repository\\Implementations\\WriteRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwBMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:51:53.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Implementations\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Repository\\Implementations\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Implementations\\ReadRepository.cs",
-              "RelativeToolTip": "Flow.DAL\\Repository\\Implementations\\ReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:51:38.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ISocialMediaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Interfaces\\ISocialMediaRepository.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Repository\\Interfaces\\ISocialMediaRepository.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Interfaces\\ISocialMediaRepository.cs",
-              "RelativeToolTip": "Flow.DAL\\Repository\\Interfaces\\ISocialMediaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:07:04.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Interfaces\\IWriteRepository.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Repository\\Interfaces\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Interfaces\\IWriteRepository.cs",
-              "RelativeToolTip": "Flow.DAL\\Repository\\Interfaces\\IWriteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:51:48.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Interfaces\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Repository\\Interfaces\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Interfaces\\IReadRepository.cs",
-              "RelativeToolTip": "Flow.DAL\\Repository\\Interfaces\\IReadRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:51:19.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SocialMediaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Implementations\\SocialMediaRepository.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Repository\\Implementations\\SocialMediaRepository.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Repository\\Implementations\\SocialMediaRepository.cs",
-              "RelativeToolTip": "Flow.DAL\\Repository\\Implementations\\SocialMediaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:14:19.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Flow.DAL.csproj",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
-              "RelativeDocumentMoniker": "Flow.DAL\\Flow.DAL.csproj",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
-              "RelativeToolTip": "Flow.DAL\\Flow.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T20:30:27.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CreateGenericException.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\CreateGenericException.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\Exceptions\\CreateGenericException.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\CreateGenericException.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\Exceptions\\CreateGenericException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:35:23.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UpdateSocialMediaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\SocialMedia\\UpdateSocialMediaDto.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\DTOs\\SocialMedia\\UpdateSocialMediaDto.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\SocialMedia\\UpdateSocialMediaDto.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\DTOs\\SocialMedia\\UpdateSocialMediaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:23:40.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetSocialMediaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\SocialMedia\\GetSocialMediaDto.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\DTOs\\SocialMedia\\GetSocialMediaDto.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\SocialMedia\\GetSocialMediaDto.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\DTOs\\SocialMedia\\GetSocialMediaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:21:02.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Flow.Core\\Entities\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Entities\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Flow.Core\\Entities\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:28:37.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SocialMedia.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Entities\\SocialMedia.cs",
-              "RelativeDocumentMoniker": "Flow.Core\\Entities\\SocialMedia.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Entities\\SocialMedia.cs",
-              "RelativeToolTip": "Flow.Core\\Entities\\SocialMedia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:29:30.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CreateSocialMediaDto.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\SocialMedia\\CreateSocialMediaDto.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\DTOs\\SocialMedia\\CreateSocialMediaDto.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\DTOs\\SocialMedia\\CreateSocialMediaDto.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\DTOs\\SocialMedia\\CreateSocialMediaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:23:34.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Program.cs",
-              "RelativeToolTip": "Flow.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:22:01.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DeleteGenericException.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\DeleteGenericException.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\Exceptions\\DeleteGenericException.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\DeleteGenericException.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\Exceptions\\DeleteGenericException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T23:18:35.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Flow.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Flow.Infrastructure\\Flow.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
-              "RelativeToolTip": "Flow.Infrastructure\\Flow.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T22:46:28.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "20250314222315_allcode.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Migrations\\20250314222315_allcode.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Migrations\\20250314222315_allcode.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Migrations\\20250314222315_allcode.cs",
-              "RelativeToolTip": "Flow.DAL\\Migrations\\20250314222315_allcode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T22:23:16.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SocialMediaConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Configurations\\SocialMediaConfiguration.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Configurations\\SocialMediaConfiguration.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Configurations\\SocialMediaConfiguration.cs",
-              "RelativeToolTip": "Flow.DAL\\Configurations\\SocialMediaConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:35:11.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FlowDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Context\\FlowDbContext.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Context\\FlowDbContext.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Context\\FlowDbContext.cs",
-              "RelativeToolTip": "Flow.DAL\\Context\\FlowDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:30:45.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Flow.Core.csproj",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
-              "RelativeDocumentMoniker": "Flow.Core\\Flow.Core.csproj",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
-              "RelativeToolTip": "Flow.Core\\Flow.Core.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T20:28:26.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "GetGenericException.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\GetGenericException.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\Exceptions\\GetGenericException.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\GetGenericException.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\Exceptions\\GetGenericException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:32:02.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UpdateGenericException.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\UpdateGenericException.cs",
-              "RelativeDocumentMoniker": "Flow.Business\\Helpers\\Exceptions\\UpdateGenericException.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Helpers\\Exceptions\\UpdateGenericException.cs",
-              "RelativeToolTip": "Flow.Business\\Helpers\\Exceptions\\UpdateGenericException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:36:00.072Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "20250314211115_FirstMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Migrations\\20250314211115_FirstMigration.cs",
-              "RelativeDocumentMoniker": "Flow.DAL\\Migrations\\20250314211115_FirstMigration.cs",
-              "ToolTip": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Migrations\\20250314211115_FirstMigration.cs",
-              "RelativeToolTip": "Flow.DAL\\Migrations\\20250314211115_FirstMigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:11:16.156Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Flow.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\appsettings.json",
+              "RelativeToolTip": "Flow.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T16:42:34.447Z"
             }
           ]
         }

@@ -18,6 +18,10 @@ namespace Flow.DAL
             services.AddScoped(typeof(IWriteRepository<>), typeof(WriteRepository<>));
             services.AddScoped(typeof(IReadRepository<>), typeof(ReadRepository<>));
             services.AddScoped<ISocialMediaRepository, SocialMediaRepository>();
+            services.AddScoped<IBlogRepository,BlogRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<ITagRepository, TagRepository>();
+            services.AddScoped<IColorRepository, ColorRepository>();
         }
     }
 }

@@ -3,37 +3,45 @@ using Flow.Business;
 using Flow.DAL;
 using Flow.DAL.Context;
 using Microsoft.EntityFrameworkCore;
-
-var builder = WebApplication.CreateBuilder(args);
-
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-builder.Services.AddDALRepostories();
-builder.Services.AddBusinessServices();
-builder.Services.AddControllers();
-builder.Services.AddDbContext<FlowDbContext>(options =>
+namespace Flow.Presentation
 {
-    options.UseNpgsql(builder.Configuration.GetConnectionString("Default"));
-});
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowAll",
-        builder =>
+    public class Program
+    {
+        public static void Main(string[] args)
         {
-            builder.AllowAnyOrigin()
-                .AllowAnyMethod()
-                .AllowAnyHeader();
-        });
-});
+            var builder = WebApplication.CreateBuilder(args);
 
-var app = builder.Build();
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+            builder.Services.AddDALRepostories();
+            builder.Services.AddBusinessServices();
+            builder.Services.AddControllers();
+            builder.Services.AddDbContext<FlowDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Deploy"));
+            });
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder =>
+                    {
+                        builder.AllowAnyOrigin()
+                            .AllowAnyMethod()
+                            .AllowAnyHeader();
+                    });
+            });
 
-app.UseCors("AllowAll");
+            var app = builder.Build();
 
-app.UseSwagger();
-app.UseSwaggerUI();
-app.UseHttpsRedirection();
-app.MapControllers();
-app.UseStaticFiles();
-app.UseMiddleware<GlobalExceptionMiddleware>();
-app.Run();
+            app.UseCors("AllowAll");
+
+            app.UseSwagger();
+            app.UseSwaggerUI();
+            app.UseHttpsRedirection();
+            app.MapControllers();
+            app.UseStaticFiles();
+            app.UseMiddleware<GlobalExceptionMiddleware>();
+            app.Run();
+        }
+    }
+}

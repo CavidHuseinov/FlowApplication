@@ -1,0 +1,11 @@
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\bin\Release\net9.0\Flow.Core.deps.json
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\bin\Release\net9.0\Flow.Core.dll
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\bin\Release\net9.0\Flow.Core.pdb
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.AssemblyInfoInputs.cache
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.AssemblyInfo.cs
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.dll
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\refint\Flow.Core.dll
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.pdb
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\ref\Flow.Core.dll

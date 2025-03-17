@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj": {}
+    "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Flow.Business.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
         "projectName": "Flow.Business",
-        "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,18 +22,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj": {
-                "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj"
+              "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj": {
+                "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj"
               }
             }
           }
@@ -51,8 +51,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
@@ -61,6 +61,18 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.11.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.11.0, )"
             }
           },
           "imports": [
@@ -83,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
         "projectName": "Flow.Core",
-        "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,15 +113,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -126,8 +138,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -148,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
         "projectName": "Flow.DAL",
-        "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,18 +178,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj": {
-                "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Core\\Flow.Core.csproj"
+              "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj": {
+                "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj"
               }
             }
           }
@@ -195,10 +207,14 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
             },
@@ -207,10 +223,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[9.0.1, )"
             }
           },
           "imports": [
@@ -233,14 +245,14 @@
         }
       }
     },
-    "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
         "projectName": "Flow.Infrastructure",
-        "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -251,15 +263,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -276,8 +288,8 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Http": {
               "target": "Package",
@@ -304,14 +316,14 @@
         }
       }
     },
-    "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj": {
+    "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
         "projectName": "Flow.Presentation",
-        "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
+        "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
         "packagesPath": "C:\\Users\\Cavid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Presentation\\obj\\",
+        "outputPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -322,21 +334,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Flow.Business.csproj": {
-                "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Business\\Flow.Business.csproj"
+              "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj": {
+                "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj"
               },
-              "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Cavid\\source\\repos\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj"
+              "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj"
               }
             }
           }
@@ -354,22 +366,26 @@
         "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
             },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.21.2, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.9.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.9.0, )"
             }
           },
           "imports": [

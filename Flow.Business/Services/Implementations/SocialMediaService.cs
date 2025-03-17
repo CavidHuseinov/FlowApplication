@@ -46,10 +46,6 @@ namespace Flow.Business.Services.Implementations
 
         public async Task<GetSocialMediaDto> CreateAsync(CreateSocialMediaDto dto)
         {
-            if (dto == null)
-            {
-                throw new ArgumentNullException(nameof(dto), "CreateSocialMediaDto cannot be null");
-            }
 
             var media = _mapper.Map<SocialMedia>(dto);
             var newMedia = await _writeRepository.CreateAsync(media);
@@ -57,10 +53,6 @@ namespace Flow.Business.Services.Implementations
         }
         public Task UpdateAsync(UpdateSocialMediaDto dto)
         {
-            if (dto == null)
-            {
-                throw new ArgumentNullException(nameof(dto), "UpdateSocialMediaDto cannot be null");
-            }
 
             var media = _mapper.Map<SocialMedia>(dto);
             return _writeRepository.UpdateAsync(media);
