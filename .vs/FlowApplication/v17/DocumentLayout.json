@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B62D758-27BA-4F00-90EA-4A1395B61209}|Flow.Infrastructure\\Flow.Infrastructure.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.infrastructure\\flow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9B62D758-27BA-4F00-90EA-4A1395B61209}|Flow.Infrastructure\\Flow.Infrastructure.csproj|solutionrelative:flow.infrastructure\\flow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09856A6-4B56-4C6B-857C-05C7D4841AF4}|Flow.Core\\Flow.Core.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.core\\flow.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C09856A6-4B56-4C6B-857C-05C7D4841AF4}|Flow.Core\\Flow.Core.csproj|solutionrelative:flow.core\\flow.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\flow.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\flow.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +39,8 @@
       "RelativeMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\dalrepositoryregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C916F4DF-C6B7-4A1C-A9A6-B9A3F8AE88F6}|Flow.DAL\\Flow.DAL.csproj|solutionrelative:flow.dal\\flow.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\services\\implementations\\blogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\flow.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|solutionrelative:flow.business\\flow.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D706F43-4ACB-4F7D-BE55-128A145733BE}|Flow.Business\\Flow.Business.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.business\\businessserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\flow.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|c:\\users\\cavid\\desktop\\flowapplication\\flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{99CA8FF3-0796-490F-9284-B8C5D42C56ED}|Flow.Presentation\\Flow.Presentation.csproj|solutionrelative:flow.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,19 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Flow.Presentation\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:58:53.651Z"
+              "DocumentIndex": 4,
+              "Title": "Flow.Core",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
+              "RelativeDocumentMoniker": "Flow.Core\\Flow.Core.csproj",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Core\\Flow.Core.csproj",
+              "RelativeToolTip": "Flow.Core\\Flow.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T13:33:34.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "BlogService.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Services\\Implementations\\BlogService.cs",
               "RelativeDocumentMoniker": "Flow.Business\\Services\\Implementations\\BlogService.cs",
@@ -90,20 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Flow.Business.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
               "RelativeDocumentMoniker": "Flow.Business\\Flow.Business.csproj",
               "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\Flow.Business.csproj",
               "RelativeToolTip": "Flow.Business\\Flow.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-16T16:55:28.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "BusinessServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Business\\BusinessServiceRegistration.cs",
               "RelativeDocumentMoniker": "Flow.Business\\BusinessServiceRegistration.cs",
@@ -115,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DALRepositoryRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\DALRepositoryRegistration.cs",
               "RelativeDocumentMoniker": "Flow.DAL\\DALRepositoryRegistration.cs",
@@ -127,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Flow.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Flow.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Flow.Infrastructure\\Flow.Infrastructure.csproj",
@@ -140,7 +145,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Flow.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
+              "RelativeDocumentMoniker": "Flow.Presentation\\Flow.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
+              "RelativeToolTip": "Flow.Presentation\\Flow.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T16:47:15.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Flow.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\appsettings.json",
+              "RelativeToolTip": "Flow.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T16:42:34.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Flow.Presentation\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Flow.Presentation\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:58:53.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GlobalExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "Flow.Infrastructure\\Middlewares\\GlobalExceptionMiddleware.cs",
@@ -152,20 +195,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Flow.DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
               "RelativeDocumentMoniker": "Flow.DAL\\Flow.DAL.csproj",
               "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.DAL\\Flow.DAL.csproj",
               "RelativeToolTip": "Flow.DAL\\Flow.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-16T16:47:42.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Flow.Presentation\\Program.cs",
@@ -178,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Flow.Presentation\\Properties\\launchSettings.json",
@@ -187,31 +230,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-16T16:49:34.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Flow.Presentation.csproj",
-              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
-              "RelativeDocumentMoniker": "Flow.Presentation\\Flow.Presentation.csproj",
-              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\Flow.Presentation.csproj",
-              "RelativeToolTip": "Flow.Presentation\\Flow.Presentation.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-16T16:47:15.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Flow.Presentation\\appsettings.json",
-              "ToolTip": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\appsettings.json",
-              "RelativeToolTip": "Flow.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T16:42:34.447Z"
             }
           ]
         }
