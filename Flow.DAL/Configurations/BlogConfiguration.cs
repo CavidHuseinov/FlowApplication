@@ -19,6 +19,12 @@ namespace Flow.DAL.Configurations
             builder.Property(x=>x.Title).IsRequired();
             builder.Property(x => x.Description).IsRequired();
 
+
+            builder.HasOne(x => x.Category)
+                .WithMany(x => x.Blogs)
+                .HasForeignKey(x => x.CategoryId)
+                .OnDelete(DeleteBehavior.Cascade);
+
         }
     }
 }

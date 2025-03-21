@@ -38,7 +38,7 @@ namespace Flow.Presentation.Controllers
             }
         }
         [HttpPost("create")]
-        public async Task<IActionResult> CreateAsync(CreateSocialMediaDto dto)
+        public async Task<IActionResult> CreateAsync([FromForm] CreateSocialMediaDto dto)
         {
             if (!ModelState.IsValid)
             {
@@ -56,7 +56,7 @@ namespace Flow.Presentation.Controllers
             }
         }
         [HttpPut("update")]
-        public async Task<IActionResult> UpdateAsync(UpdateSocialMediaDto dto)
+        public async Task<IActionResult> UpdateAsync([FromForm] UpdateSocialMediaDto dto)
         {
             try
             {

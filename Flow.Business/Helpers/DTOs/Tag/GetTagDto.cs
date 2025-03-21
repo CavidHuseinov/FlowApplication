@@ -12,6 +12,7 @@ namespace Flow.Business.Helpers.DTOs.Tag
     public record GetTagDto:BaseDto
     {
         public string Name { get; set; }
-        public string ColorName {  get; set; }
+        public string? ColorName {  get; set; }
+        public string? ColorHexCode { get; set; }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.dl
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\refint\Flow.Core.dll
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.pdb
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\ref\Flow.Core.dll
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Core\obj\Release\net9.0\Flow.Core.sourcelink.json

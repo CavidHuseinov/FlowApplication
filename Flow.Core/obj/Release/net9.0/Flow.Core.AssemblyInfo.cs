@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flow.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c21640761b5dac761bb229d179bcfaf058f4c651")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flow.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flow.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

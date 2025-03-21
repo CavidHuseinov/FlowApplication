@@ -38,7 +38,7 @@ namespace Flow.Presentation.Controllers
             }
         }
         [HttpPost("create")]
-        public async Task<IActionResult> CreateAsync(CreateTagDto dto)
+        public async Task<IActionResult> CreateAsync([FromForm]CreateTagDto dto)
         {
             if (!ModelState.IsValid)
             {
@@ -55,7 +55,7 @@ namespace Flow.Presentation.Controllers
             }
         }
         [HttpPut("update")]
-        public async Task<IActionResult> UpdateAsync(UpdateTagDto dto)
+        public async Task<IActionResult> UpdateAsync([FromForm]UpdateTagDto dto)
         {
             try
             {

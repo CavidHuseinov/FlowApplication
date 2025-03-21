@@ -251,9 +251,24 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "Flow.Business.Helpers.DTOs.SocialMedia.CreateSocialMediaDto",
-        "IsRequired": true
+        "Name": "InstagramUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TwitterUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FacebookUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LinkedInUrl",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -309,9 +324,34 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "Flow.Business.Helpers.DTOs.SocialMedia.UpdateSocialMediaDto",
-        "IsRequired": true
+        "Name": "InstagramUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TwitterUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FacebookUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "LinkedInUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "CreatedAt",
+        "Type": "System.DateTime",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -325,9 +365,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "Flow.Business.Helpers.DTOs.Tag.CreateTagDto",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ColorId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -383,9 +428,24 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
-        "Type": "Flow.Business.Helpers.DTOs.Tag.UpdateTagDto",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ColorId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "CreatedAt",
+        "Type": "System.DateTime",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

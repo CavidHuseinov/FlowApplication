@@ -17,3 +17,5 @@ namespace Flow.Core.Entities
         public ICollection<BlogTag>? BlogTags { get; set; }
     }
 }
+//0c96a380-a76a-4674-880d-39242c6b57f7
+//c1a08d65-df57-437e-b997-abba9d92d112

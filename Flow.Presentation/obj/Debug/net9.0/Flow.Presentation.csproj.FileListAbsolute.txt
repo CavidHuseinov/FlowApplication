@@ -170,3 +170,6 @@ C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Debug\net9.0\refint
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Debug\net9.0\Flow.Presentation.pdb
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Debug\net9.0\Flow.Presentation.genruntimeconfig.cache
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Debug\net9.0\ref\Flow.Presentation.dll
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\bin\Debug\net9.0\Flow.Presentation.staticwebassets.runtime.json
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Debug\net9.0\Flow.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Debug\net9.0\Flow.Presentation.sourcelink.json

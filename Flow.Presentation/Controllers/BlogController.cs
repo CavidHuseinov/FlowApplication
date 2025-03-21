@@ -39,19 +39,19 @@ namespace Flow.Presentation.Controllers
         [HttpPost("create")]
         public async Task<IActionResult> CreateAsync(CreateBlogDto dto)
         {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-            try
-            {
+            //if (!ModelState.IsValid)
+            //{
+            //    return BadRequest(ModelState);
+            //}
+            //try
+            //{
                 await _service.CreateAsync(dto);
                 return Ok();
-            }
-            catch (CreateGenericException<Blog> ex)
-            {
-                throw new Exception(ex.Message);
-            }
+            //}
+            //catch (CreateGenericException<Blog> ex)
+            //{
+            //    throw new Exception(ex.Message);
+            //}
         }
         [HttpPut("update")]
         public async Task<IActionResult> UpdateAsync(UpdateBlogDto dto)

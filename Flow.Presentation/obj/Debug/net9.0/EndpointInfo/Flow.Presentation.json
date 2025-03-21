@@ -438,19 +438,37 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/CreateSocialMediaDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateSocialMediaDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateSocialMediaDto"
+                "type": "object",
+                "properties": {
+                  "InstagramUrl": {
+                    "type": "string"
+                  },
+                  "TwitterUrl": {
+                    "type": "string"
+                  },
+                  "FacebookUrl": {
+                    "type": "string"
+                  },
+                  "LinkedInUrl": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "InstagramUrl": {
+                  "style": "form"
+                },
+                "TwitterUrl": {
+                  "style": "form"
+                },
+                "FacebookUrl": {
+                  "style": "form"
+                },
+                "LinkedInUrl": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -469,19 +487,51 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/UpdateSocialMediaDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateSocialMediaDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateSocialMediaDto"
+                "type": "object",
+                "properties": {
+                  "InstagramUrl": {
+                    "type": "string"
+                  },
+                  "TwitterUrl": {
+                    "type": "string"
+                  },
+                  "FacebookUrl": {
+                    "type": "string"
+                  },
+                  "LinkedInUrl": {
+                    "type": "string"
+                  },
+                  "Id": {
+                    "type": "string",
+                    "format": "uuid"
+                  },
+                  "CreatedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                  }
+                }
+              },
+              "encoding": {
+                "InstagramUrl": {
+                  "style": "form"
+                },
+                "TwitterUrl": {
+                  "style": "form"
+                },
+                "FacebookUrl": {
+                  "style": "form"
+                },
+                "LinkedInUrl": {
+                  "style": "form"
+                },
+                "Id": {
+                  "style": "form"
+                },
+                "CreatedAt": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -556,19 +606,26 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/CreateTagDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateTagDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/CreateTagDto"
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "ColorId": {
+                    "type": "string",
+                    "format": "uuid"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "ColorId": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -587,19 +644,40 @@
         ],
         "requestBody": {
           "content": {
-            "application/json": {
+            "multipart/form-data": {
               "schema": {
-                "$ref": "#/components/schemas/UpdateTagDto"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateTagDto"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/UpdateTagDto"
+                "type": "object",
+                "properties": {
+                  "Name": {
+                    "type": "string"
+                  },
+                  "ColorId": {
+                    "type": "string",
+                    "format": "uuid"
+                  },
+                  "Id": {
+                    "type": "string",
+                    "format": "uuid"
+                  },
+                  "CreatedAt": {
+                    "type": "string",
+                    "format": "date-time"
+                  }
+                }
+              },
+              "encoding": {
+                "Name": {
+                  "style": "form"
+                },
+                "ColorId": {
+                  "style": "form"
+                },
+                "Id": {
+                  "style": "form"
+                },
+                "CreatedAt": {
+                  "style": "form"
+                }
               }
             }
           }
@@ -712,42 +790,6 @@
         },
         "additionalProperties": false
       },
-      "CreateSocialMediaDto": {
-        "type": "object",
-        "properties": {
-          "instagramUrl": {
-            "type": "string",
-            "nullable": true
-          },
-          "twitterUrl": {
-            "type": "string",
-            "nullable": true
-          },
-          "facebookUrl": {
-            "type": "string",
-            "nullable": true
-          },
-          "linkedInUrl": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "CreateTagDto": {
-        "type": "object",
-        "properties": {
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "colorId": {
-            "type": "string",
-            "format": "uuid"
-          }
-        },
-        "additionalProperties": false
-      },
       "UpdateBlogDto": {
         "type": "object",
         "properties": {
@@ -800,58 +842,6 @@
           "name": {
             "type": "string",
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "UpdateSocialMediaDto": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "instagramUrl": {
-            "type": "string",
-            "nullable": true
-          },
-          "twitterUrl": {
-            "type": "string",
-            "nullable": true
-          },
-          "facebookUrl": {
-            "type": "string",
-            "nullable": true
-          },
-          "linkedInUrl": {
-            "type": "string",
-            "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "UpdateTagDto": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "createdAt": {
-            "type": "string",
-            "format": "date-time"
-          },
-          "name": {
-            "type": "string",
-            "nullable": true
-          },
-          "colorId": {
-            "type": "string",
-            "format": "uuid"
           }
         },
         "additionalProperties": false

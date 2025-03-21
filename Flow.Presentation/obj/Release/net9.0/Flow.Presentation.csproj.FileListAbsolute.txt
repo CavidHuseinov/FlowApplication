@@ -172,3 +172,4 @@ C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Release\net9.0\Flow
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Release\net9.0\Flow.Presentation.genruntimeconfig.cache
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Release\net9.0\ref\Flow.Presentation.dll
 C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\bin\Release\net9.0\Flow.Presentation.staticwebassets.runtime.json
+C:\Users\Cavid\Desktop\FlowApplication\Flow.Presentation\obj\Release\net9.0\Flow.Presentation.sourcelink.json

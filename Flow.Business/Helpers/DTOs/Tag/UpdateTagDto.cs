@@ -10,7 +10,7 @@ namespace Flow.Business.Helpers.DTOs.Tag
     public record UpdateTagDto:BaseDto  
     {
         public string Name { get; set; }
-        public Guid ColorId { get; set; }
+        public Guid? ColorId { get; set; }
 
     }
 }

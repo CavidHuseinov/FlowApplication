@@ -15,3 +15,4 @@ C:\Users\Cavid\Desktop\FlowApplication\Flow.DAL\obj\Debug\net9.0\refint\Flow.DAL
 C:\Users\Cavid\Desktop\FlowApplication\Flow.DAL\obj\Debug\net9.0\Flow.DAL.pdb
 C:\Users\Cavid\Desktop\FlowApplication\Flow.DAL\obj\Debug\net9.0\Flow.DAL.genruntimeconfig.cache
 C:\Users\Cavid\Desktop\FlowApplication\Flow.DAL\obj\Debug\net9.0\ref\Flow.DAL.dll
+C:\Users\Cavid\Desktop\FlowApplication\Flow.DAL\obj\Debug\net9.0\Flow.DAL.sourcelink.json
