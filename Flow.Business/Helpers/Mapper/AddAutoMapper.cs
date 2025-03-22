@@ -8,6 +8,7 @@ using Flow.Business.Helpers.DTOs.FileUpload;
 using Flow.Business.Helpers.DTOs.SocialMedia;
 using Flow.Business.Helpers.DTOs.Tag;
 using Flow.Core.Entities;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,32 +21,32 @@ namespace Flow.Business.Helpers.Mapper
     {
         public AddAutoMapper()
         {
-            CreateMap<SocialMedia, GetSocialMediaDto>().ReverseMap();
-            CreateMap<SocialMedia, UpdateSocialMediaDto>().ReverseMap();
+            CreateMap<SocialMedia,GetSocialMediaDto>().ReverseMap();
             CreateMap<SocialMedia, CreateSocialMediaDto>().ReverseMap();
+            CreateMap<SocialMedia, UpdateSocialMediaDto>().ReverseMap();
 
-            CreateMap<GetFileUploadDto, string>().ReverseMap();
-            CreateMap<string, CreateFileUploadDto>().ReverseMap();
+            CreateMap<Blog, GetBlogDto>().ReverseMap();
+            CreateMap<Blog, CreateBlogDto>().ReverseMap();
+            CreateMap<Blog, UpdateBlogDto>().ReverseMap();
 
-            CreateMap<ContactFormDto,string>().ReverseMap();
-
-            CreateMap<GetBlogDto, Blog>().ReverseMap();
-            CreateMap<CreateBlogDto, Blog>().ReverseMap();
-            CreateMap<UpdateBlogDto, Blog>().ReverseMap();
-
-            CreateMap<GetCategoryDto, Category>().ReverseMap();
-            CreateMap<CreateCategoryDto, Category>().ReverseMap();
-            CreateMap<UpdateCategoryDto, Category>().ReverseMap();
-
-            CreateMap<BlogTag, GetBlogTagDto>().ReverseMap();
-            CreateMap<BlogTag, CreateBlogTagDto>().ReverseMap();
-
-            CreateMap<Tag,GetTagDto>().ReverseMap();
+            CreateMap<Tag, GetTagDto>().ReverseMap();
             CreateMap<Tag, CreateTagDto>().ReverseMap();
             CreateMap<Tag, UpdateTagDto>().ReverseMap();
 
             CreateMap<Color, GetColorDto>().ReverseMap();
             CreateMap<Color, CreateColorDto>().ReverseMap();
+
+            CreateMap<BlogTag, GetBlogTagDto>().ReverseMap();
+            CreateMap<BlogTag, CreateBlogTagDto>().ReverseMap();
+
+            CreateMap<Category, GetCategoryDto>().ReverseMap();
+            CreateMap<Category, CreateCategoryDto>().ReverseMap();
+            CreateMap<Category, UpdateCategoryDto>().ReverseMap();
+
+            CreateMap<ContactFormDto, string>().ReverseMap();
+
+            CreateMap<CreateFileUploadDto, string>().ReverseMap();
+            CreateMap<GetFileUploadDto, string>().ReverseMap();
         }
     }
 }

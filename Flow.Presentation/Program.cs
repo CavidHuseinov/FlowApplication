@@ -18,7 +18,7 @@ namespace Flow.Presentation
             builder.Services.AddControllers();
             builder.Services.AddDbContext<FlowDbContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("Deploy"));
             });
             builder.Services.AddCors(options =>
             {

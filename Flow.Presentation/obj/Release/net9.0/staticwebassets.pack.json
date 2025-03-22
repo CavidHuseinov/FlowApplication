@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\wwwroot\\Uploads\\Test\\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG",
+      "PackagePath": "staticwebassets\\Uploads\\Test\\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.Flow.Presentation.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.Flow.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.build.Flow.Presentation.props",
+      "PackagePath": "build\\Flow.Presentation.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Flow.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\Flow.Presentation.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0\\staticwebassets\\msbuild.buildTransitive.Flow.Presentation.props",
+      "PackagePath": "buildTransitive\\Flow.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

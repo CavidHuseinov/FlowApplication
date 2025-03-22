@@ -22,6 +22,7 @@ namespace Flow.DAL
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ITagRepository, TagRepository>();
             services.AddScoped<IColorRepository, ColorRepository>();
+            services.AddScoped<IBlogTagRepository, BlogTagRepository>();
         }
     }
 }

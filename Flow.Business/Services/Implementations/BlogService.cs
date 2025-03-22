@@ -19,15 +19,17 @@ namespace Flow.Business.Services.Implementations
     {
         private readonly IBlogRepository _writeRepository;
         private readonly IReadRepository<Blog> _readRepository;
+        private readonly IBlogTagRepository _blogTagRepository;
         private readonly IMapper _mapper;
         private readonly FlowDbContext _context;
 
-        public BlogService(IMapper mapper, IReadRepository<Blog> readRepository, IBlogRepository writeRepository, FlowDbContext context)
+        public BlogService(IMapper mapper, IReadRepository<Blog> readRepository, IBlogRepository writeRepository, FlowDbContext context, IBlogTagRepository blogTagRepository)
         {
             _mapper = mapper;
             _readRepository = readRepository;
             _writeRepository = writeRepository;
             _context = context;
+            _blogTagRepository = blogTagRepository;
         }
 
         public async Task<GetBlogDto> CreateAsync(CreateBlogDto dto)
@@ -41,18 +43,30 @@ namespace Flow.Business.Services.Implementations
                     .Where(tag => dto.TagIds.Contains(tag.Id))
                     .ToListAsync();
 
+                //if (tags.Any())
+                //{
+                //    createdBlog.BlogTags = new Collection<BlogTag>();
+                //    foreach (var tag in tags)
+                //    {
+                //        createdBlog.BlogTags.Add(new BlogTag
+                //        {
+                //            TagId = tag.Id,
+                //            BlogId = createdBlog.Id
+                //        });
+                //    }
+                //    await _writeRepository.UpdateAsync(createdBlog);
+                //}
                 if (tags.Any())
                 {
-                    createdBlog.BlogTags = new Collection<BlogTag>();
-                    foreach (var tag in tags)
+                    foreach(var tag in tags)
                     {
-                        createdBlog.BlogTags.Add(new BlogTag
+                        var blogTag = new BlogTag
                         {
                             TagId = tag.Id,
                             BlogId = createdBlog.Id
-                        });
+                        };
+                        await _blogTagRepository.CreateAsync(blogTag);
                     }
-                    await _writeRepository.UpdateAsync(createdBlog);
                 }
             }
             await _context.SaveChangesAsync();

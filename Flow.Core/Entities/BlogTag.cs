@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 
 namespace Flow.Core.Entities
 {
-    public class BlogTag
+    public class BlogTag:BaseEntity
     {
-        public Guid Id { get; set; }
         public Guid BlogId { get; set; }
         public Blog? Blog { get; set; }
         public Guid TagId { get; set; }

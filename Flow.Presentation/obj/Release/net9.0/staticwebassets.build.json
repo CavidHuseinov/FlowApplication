@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kd0JCBEKKgIfMJ92x8j4bRnu4yquovOV7RZuS5TWaZo=",
+  "Hash": "NJ0X8q7uTd2bfM1Dyv38SviA5siTuyo68IDPc6EclCc=",
   "Source": "Flow.Presentation",
   "BasePath": "_content/Flow.Presentation",
   "Mode": "Default",
@@ -15,6 +15,111 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\wwwroot\\Uploads\\Test\\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG",
+      "SourceId": "Flow.Presentation",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\wwwroot\\",
+      "BasePath": "_content/Flow.Presentation",
+      "RelativePath": "Uploads/Test/b1077112-d99f-43d0-9515-602ef1950d0bСнимок#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90d38by7ml",
+      "Integrity": "mVjymnrVbAxCzpi2opKqedvovkTFsTbDh2V0Q7DFej0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Test\\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Uploads/Test/b1077112-d99f-43d0-9515-602ef1950d0bСнимок.90d38by7ml.PNG",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\wwwroot\\Uploads\\Test\\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVjymnrVbAxCzpi2opKqedvovkTFsTbDh2V0Q7DFej0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 10:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90d38by7ml"
+        },
+        {
+          "Name": "label",
+          "Value": "Uploads/Test/b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVjymnrVbAxCzpi2opKqedvovkTFsTbDh2V0Q7DFej0="
+        }
+      ]
+    },
+    {
+      "Route": "Uploads/Test/b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG",
+      "AssetFile": "C:\\Users\\Cavid\\Desktop\\FlowApplication\\Flow.Presentation\\wwwroot\\Uploads\\Test\\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mVjymnrVbAxCzpi2opKqedvovkTFsTbDh2V0Q7DFej0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 10:47:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mVjymnrVbAxCzpi2opKqedvovkTFsTbDh2V0Q7DFej0="
+        }
+      ]
+    }
+  ]
 }

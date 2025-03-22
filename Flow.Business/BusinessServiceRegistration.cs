@@ -17,7 +17,6 @@ namespace Flow.Business
         {
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
-
             services.AddScoped<ISocialMediaService, SocialMediaService>();
             services.AddScoped<IFileUploadService, FileUploadService>();
             services.AddScoped<IContactService, ContactService>();
