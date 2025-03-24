@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Flow.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+385cdec5d86a7ee5065ec94b3199e0ebc6776198")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44fd18fc2f75c95e24a4ece90b477eea13a1871a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Flow.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Flow.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
