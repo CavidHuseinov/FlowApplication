@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Test\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Flow.Presentation</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Flow.Presentation</BasePath>
+      <RelativePath>Uploads/Test/b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>90d38by7ml</Fingerprint>
+      <Integrity>mVjymnrVbAxCzpi2opKqedvovkTFsTbDh2V0Q7DFej0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Uploads\Test\b1077112-d99f-43d0-9515-602ef1950d0bСнимок.PNG'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
