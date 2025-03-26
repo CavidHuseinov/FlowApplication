@@ -1,9 +1,9 @@
 # 🚀 Flow Blog Backend
 
-![.NET Version](https://img.shields.io/badge/.NET-9.0-blue?style=for-the-badge)
+![.NET Version](https://img.shields.io/badge/.NET-8.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
-**Flow Blog Backend** .NET 9.0 ilə hazırlanmış bir blog platformasının backend hissəsidir.
+**Flow Blog Backend** .NET 8.0 ilə hazırlanmış bir blog platformasının backend hissəsidir.
 
 ---
 
@@ -41,7 +41,7 @@
 ## 🔧 **Quraşdırma və İstifadə**
 ### 📌 **Ətraf Mühitin Hazırlanması**
 Aşağıdakı alətlərin quraşdırılması tələb olunur:
-- **.NET SDK 9.0**
+- **.NET SDK 8.0**
 - **SQL Server**
 - **Postman və ya Swagger**
 
