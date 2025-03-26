@@ -5,6 +5,14 @@
 
 **Flow Blog Backend** .NET 8.0 ilə hazırlanmış bir blog platformasının backend hissəsidir.
 
+### 🌐 Canlı Versiya
+- **Sayt:** [Flow Blog Website](https://flow-blog-website.vercel.app/)
+- **Admin Panel:** [Admin Girişi](https://flow-blog-website.vercel.app/admin-login)
+
+### 🔑 Admin Məlumatları
+- **İstifadəçi adı:** `admin`  
+- **Şifrə:** `admin1234`
+
 ---
 
 ## 🔥 **İstifadə Edilən Texnologiyalar**
